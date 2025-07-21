@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi there, I'm David Joshua!
 
-<!--
-**daviidjoshua/daviidjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UFCG, focused on infrastructure, systems, and automation. My main areas of interest are:
 
-Here are some ideas to get you started:
+- 🌐 **Computer Networks**: switches, routers, servers, configuration and maintenance of physical and virtual infrastructures.
+- 🐧 **Linux Systems**: administration, scripting, automation, and service management in Unix-like distributions.
+- ⚙️ **DevOps**: continuous integration practices, provisioning, containers, automated deployment, and infrastructure as code tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖧 Current position: **Network Support — SPLab / UFCG**  
+  Management of the lab’s local network and servers. Switch configuration, firewall, internal services, and support for the research team.
+
+- 🖥️ **Imagem Prova — Guardians Project / UFCG**  
+  Responsible for maintaining and managing custom Linux system images used for student assessments at UFCG — a Guardians/UFCG initiative.
+
+---
