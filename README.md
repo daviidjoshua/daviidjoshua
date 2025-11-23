@@ -37,4 +37,4 @@ Currently, I am focused on analyzing and optimizing cache behaviors in large-sca
 ### 📫 Connect with me
 
 - 📧 **Email**: [david.joshua.galvincio.souza@ccc.ufcg.edu.br](mailto:david.joshua.galvincio.souza@ccc.ufcg.edu.br)
-- 💼 **LinkedIn**: [David Joshua](SeuLinkAqui)
+- 💼 **LinkedIn**: [David Joshua](https://www.linkedin.com/in/david-joshua-galvincio-de-souza-38538a383/)
